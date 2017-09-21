@@ -1,0 +1,22 @@
+{
+  "name": "node-school-wallet-app",
+  "version": "1.0.0",
+  "description": "Приложение школы Node.js «Кошелёк»",
+  "author": "",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:rakchaev/node-school-app.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "^8.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
